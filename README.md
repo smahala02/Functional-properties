@@ -150,3 +150,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Author
+- [smahala02](https://github.com/smahala02)
+
